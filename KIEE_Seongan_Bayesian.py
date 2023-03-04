@@ -4,7 +4,7 @@ import matplotlib as mpl
 import numpy as np
 import matplotlib.pyplot as plt
 
-print('안녕')
+print('안녕 2번째')
 
 # train data
 data=pd.read_excel('C:/Users/jhr96/Desktop/PYTHON/excel/fault_feature_800_new_s_train.xls') 
